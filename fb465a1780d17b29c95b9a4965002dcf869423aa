@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23822aa3_fb5bf844",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34562
+      },
+      "writtenOn": "2024-12-24T15:23:07Z",
+      "side": 1,
+      "message": "I tried enabling erofs in this kernel, and now with these commits it can work on my Mi 8 Pro. I wonder if it can be merged into official kernel. I also noticed that the qcom_sdm845 kernel was only updated to lineage-20, so I commited to OEM kernel directly. I would grateful if you could review my code. Thanks.",
+      "revId": "fb465a1780d17b29c95b9a4965002dcf869423aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
